@@ -11,11 +11,11 @@ When planning on simulating the code, we recommend to make sure that the dataset
 
 ## Implementation 
 Once you have your dataset prepared, or plan on using our dataset, we recommend you run the files in this order:
- - **Benford's_Law_Divergence_Method.ipynb**
+ - [**Benford's_Law_Divergence_Method.ipynb**](code/Benford's_Law_Divergence_Method.ipynb)
     - DCT extractor
     - First Digit Probabilities extractor
     - Classifier combining three divergences for detecting fake and real images
- - **Chi-square Method.ipynb**
+ - [**Chi-square Method.ipynb**](code/Chi-square-Method.ipynb)
     - Chi-Square classification implementation
 ## Datasets
 We opted to use the following datasets from the following resources:

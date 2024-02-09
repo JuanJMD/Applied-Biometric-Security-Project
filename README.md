@@ -7,7 +7,7 @@ To run the code files, we recommend running it on an online environment, such as
 The following program was built during the months of **Oct-Dec of 2023**. Running it later than this date may require some modifications to the code and dependencies.
 
 ## Image Conversion (Optional)
-When planning on simulating the code, we recommend to make sure that the dataset contains JPEG-type images (Preferably 600x600). This module is given if you plan on using a different dataset and the images are in PNG format, we highly recommend you convert those images to JPEG using the *ConvertPNGtoJPEG.ipynb* file. Otherwise, you do not have to run that file.
+When planning on simulating the code, we recommend to make sure that the dataset contains JPEG-type images (Preferably 600x600). This module is given if you plan on using a different dataset and the images are in PNG format, we highly recommend you convert those images to JPEG using the [*ConvertPNGtoJPEG.ipynb*](code/ConvertPNGtoJPEG.ipynb) file. Otherwise, you do not have to run that file.
 
 ## Implementation 
 Once you have your dataset prepared, or plan on using our dataset, we recommend you run the files in this order:

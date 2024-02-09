@@ -1,4 +1,4 @@
-# Detection Approach of GANs-based Morphing Attacks By using Benford’s Law
+# Deep-Fake Detection Approach of GANs-based Morphing Attacks By using Benford’s Law
 
 ## Code Installation and Configuration
 
